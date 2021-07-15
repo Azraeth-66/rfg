@@ -30,6 +30,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   dio:
   get:
+  json_serializable:
 
 dev_dependencies:
   flutter_test:
